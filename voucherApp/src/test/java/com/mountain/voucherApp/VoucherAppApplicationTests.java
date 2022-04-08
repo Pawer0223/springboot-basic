@@ -1,10 +1,10 @@
-package com.mountain.commountainvoucherApp;
+package com.mountain.voucherApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ComMountainVoucherAppApplicationTests {
+class VoucherAppApplicationTests {
 
 	@Test
 	void contextLoads() {

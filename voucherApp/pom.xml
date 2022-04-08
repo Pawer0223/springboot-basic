@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mountain</groupId>
-	<artifactId>com-mountain-voucherApp</artifactId>
+	<artifactId>voucherApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>com-mountain-voucherApp</name>
+	<name>voucherApp</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>14</java.version>

@@ -1,13 +1,13 @@
-package com.mountain.commountainvoucherApp;
+package com.mountain.voucherApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ComMountainVoucherAppApplication {
+public class VoucherAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ComMountainVoucherAppApplication.class, args);
+		SpringApplication.run(VoucherAppApplication.class, args);
 	}
 
 }

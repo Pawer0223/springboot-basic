@@ -7,7 +7,7 @@
 - [x] Maven / Gradle 로 프로젝트를 실제로 구성하고 이때 Spring Boot CLI를 개발PC에 설치해서 명령어들을 사용해보고 프로젝트를 만든다. 그리고 IDE (IntelliJ)에서 실행시켜 본다.
 
 ``` bash
-spring init --build maven -j 14 -g com.mountain -a com-mountain-voucherApp -n com-mountain-voucherApp -x com-mountain-voucherApp
+spring init --build maven -j 14 -g com.mountain -a voucherApp -n voucherApp -x voucherApp
 ```
 
     
